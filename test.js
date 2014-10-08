@@ -2,8 +2,6 @@
 var y = x.split("");
 var z = new Array();
 alert(y)
-var g = z.push("y");
-alert(g);
 count = 0
 $.each([9,7,8,0,1,4,3,0,0,7,2,3 ], function( index, value ) {
     //alert(index+":"+ value);
